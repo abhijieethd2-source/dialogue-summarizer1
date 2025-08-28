@@ -27,6 +27,6 @@ This project integrates OpenAI's Whisper ASR, MarbleNet Voice Activity Detection
 
 ### Installation
 ```bash
-git clone https://github.com/syama5824/dialogue-summarizer.git
+git clone https://github.com/abhijieethd2-source/dialogue-summarizer1.git
 cd main
 pip install -r requirements.txt
